@@ -258,6 +258,9 @@ create_object(GoToFile, {
 			else if (event.shiftKey) this.selected_file.insert_relative_path();
 			else if (event.altKey) this.selected_file.open_file();
 			else this.selected_file.go_to_file();
+			
+			if (!event.ctrlKey)
+			  window.close();
 		}
 	}
 });
