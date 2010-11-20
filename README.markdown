@@ -24,10 +24,8 @@ This GUI makes usage of makes usage of Jamis Buck's [“Fuzzy File Finder”](ht
 * by using “git”:
 
 <pre>cd ~/Library/Application\ Support/TextMate/Bundles/
-git clone git://github.com/amiel/gotofile.tmbundle.git GoToFile.tmbundle
+git clone git://github.com/stevenchanin/gotofile.tmbundle.git GoToFile.tmbundle
 </pre>
-
-* by downloading this [zip archive](http://github.com/amiel/gotofile.tmbundle/zipball/master), decompressing it, renaming it to “GoToFile.tmbundle”, and finally double-clicking at it
 
 # Usage #
 
