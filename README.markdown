@@ -48,7 +48,7 @@ Normally spaces are ignored. If one wants to look for a space one has to escape 
 * <button>⌥ CLICK</button> or <button>⌥&#x21A9;</button> opens the file with the default application
 * <button>⇧ CLICK</button> or <button>⇧&#x21A9;</button> inserts the relative file path
 * <button>⇧⌥ CLICK</button> or <button>⇧⌥&#x21A9;</button> inserts the absolute file path
-* By default, these actions will close the search window.  To keep the search window open, press <button>^&#x21A9;</button> 
+* By default, these actions will close the search window.  To keep the search window open, press ^<button>&#x21A9;</button> (the control key)
 * <button>SPACE</button> toggles the QuickLook mode (Leopard only)
 * <button>⌥ SPACE</button> adds an (escaped) space character in the search query
 * <button>↑</button> and <button>↓</button> resp. <button>⇥</button> and <button>⇧⇥</button> navigates through the list of files
