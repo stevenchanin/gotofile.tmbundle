@@ -259,8 +259,7 @@ create_object(GoToFile, {
 			else if (event.altKey) this.selected_file.open_file();
 			else this.selected_file.go_to_file();
 			
-			if (!event.ctrlKey)
-			  window.close();
+			if (event.ctrlKey == false) window.close();
 		}
 	}
 });
